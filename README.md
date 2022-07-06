@@ -2,7 +2,13 @@
 
 - 👀 I’m interested in Game Development! Coding and design are my forte! Currently I am using Unity and C#, but I have worked pretty extensively in C++/C in the past and dabbled in other languages for projects(like Python, CSS, HTML5...).
 
-- 🌱 I am expanding interests by working on my first shippable title while continueing to earn Unity certificates through GameDev TV online courses!
+- 🎃 I released my first game "Critter" on Google Play and Itch.io! It isn't a particularly pretty game but it runs well and seems to be bug free. This was a project proving that I could take a project from concept to release.
+
+  - Google Play: https://play.google.com/store/apps/details?id=com.CracklingLeafGames.Critter
+
+  - Itch.io: https://rth2.itch.io/critter
+
+- 🌱 I am exploring my coding interests in various personal projects and continuing courses on GameDev.TV
 
 - 💞️ I love to collaborate and am looking for permanent or freelance (long or short term) employment!
 
