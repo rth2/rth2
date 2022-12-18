@@ -2,6 +2,8 @@
 
 - 👀 I’m interested in Game Development! Coding and design are my forte! Currently I am using Unity and C#, but I have worked pretty extensively in C++/C in the past and dabbled in other languages for projects as needed.
 
+- ⌨ I'm currently working as a Unity Developer on a small team (many hats!) on a live mobile game.
+
 - 🎃 I released my first game "Critter" on Google Play and Itch.io! It isn't a particularly pretty game but it runs well and seems to be bug free. This was a project proving that I could take a project from concept to release.
 
   - Google Play: https://play.google.com/store/apps/details?id=com.CracklingLeafGames.Critter
