@@ -11,7 +11,7 @@
 
 - 🌱 I am exploring my coding interests by freelancing and working on personal projects!
 
-- 💞️ I love to collaborate and am looking for employment or longer term freelance contracts.
+- 💞️ I love to collaborate and am looking for long term employment or contracts.
 
 - 📫 How to reach me : website: https://www.robertheslin.com/
                        email: robert.heslin.2@gmail.com
