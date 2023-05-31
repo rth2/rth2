@@ -4,7 +4,7 @@
 
 - 🌱 I have been exploring my coding interests by freelancing on long and short term projects, tutoring, and working on my own projects!
 
-- 💞️ I love to collaborate and am looking for long term employment or contracts.
+- 💞️ I love to collaborate and am looking for a group/company to work and grow with!
 
 - 📫 How to reach me : website: https://www.robertheslin.com/
                        email: robert.heslin.2@gmail.com
