@@ -6,9 +6,10 @@
 
 - 💞️ I love to collaborate and am looking for a group/company to work and grow with on a salary basis!
 
-- 📫 How to reach me : website: https://robertheslin2.wixsite.com/dreams
-                       email: robert.heslin.2@gmail.com
-                       linkedIn: https://www.linkedin.com/in/robertheslin/
+- 📫 How to reach me :  
+website: https://robertheslin2.wixsite.com/dreams  
+email: robert.heslin.2@gmail.com  
+linkedIn: https://www.linkedin.com/in/robertheslin/
 
 <!---
 rth2/rth2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
