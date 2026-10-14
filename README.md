@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @rth2 (Robert)
+## Robert
 
-- 👀 I’m interested in Game Development! Coding and design are my forte! Currently I am using Unity and C#, but I have worked pretty extensively in C++/C in the past and dabbled in other languages for projects as needed.
+I design and build complete gameplay systems from the ground up — everything from core logic and UI to tools that streamline development. I started my professional journey at a mobile game startup, where I focused on gameplay, UI, and player experience, and have since taken on increasingly complex roles as a solo developer on full projects. I enjoy wearing multiple hats — design, engineering, testing — and thrive when I get to see a feature all the way from concept to final polish.
 
-- 🌱 I have been growing my skills (aside from full time work) by creating tools to help my son create his own game.
+My foundation is in C/C++, and over time I’ve specialized in C# and Unity, building scalable systems and editor tools for both runtime and development workflows. I have a background in Computer Art and Design, which helps me communicate well across disciplines and bring a creative edge to technical challenges.
 
-- 💞️ I love to collaborate and am looking for a group/company to work and grow with on a salary basis!
+I’m especially passionate about systems design and development tools — solving complex problems and making the process better not just for players, but for developers too. I love collaborating with others, bouncing around ideas, and digging into design discussions. Outside of work, I spend most of my time with my family or training in martial arts, which helps me recharge and stay focused.
 
-- 📫 How to reach me :  
+### 📫 How to reach me :  
 website: https://robertheslin2.wixsite.com/dreams  
 email: robert.heslin.2@gmail.com  
 linkedIn: https://www.linkedin.com/in/robertheslin/
